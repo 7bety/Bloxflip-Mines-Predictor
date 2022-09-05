@@ -1,5 +1,5 @@
 ```py
-print("i love guys") > README.md
+print("i love guys")
 ```
     
   
